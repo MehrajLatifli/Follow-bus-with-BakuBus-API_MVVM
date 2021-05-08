@@ -1,0 +1,9 @@
+﻿<Application x:Class="Follow_bus_with_BakuBus_API.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:Follow_bus_with_BakuBus_API"
+             StartupUri="Views/MainWindow.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>
